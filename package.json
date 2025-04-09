@@ -18,11 +18,12 @@
         "revert": "git reset HEAD --hard && git clean -fd"
     },
     "dependencies": {
-        "chemicaljs": "^2.6.4",
         "@mercuryworkshop/wisp-js": "0.3.3",
+        "chemicaljs": "^2.6.4",
         "dreamland": "^0.0.25",
         "dreamland-router": "github:mercuryworkshop/dreamland-router",
         "express": "^5.1.0",
+        "node-gyp-build": "^4.8.4",
         "rollup-plugin-typescript2": "^0.36.0",
         "sortablejs": "^1.15.6",
         "vite-plugin-dreamland": "^1.2.1"
