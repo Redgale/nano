@@ -19,6 +19,7 @@
     },
     "dependencies": {
         "chemicaljs": "^2.6.4",
+        "@mercuryworkshop/wisp-js": "0.3.3",
         "dreamland": "^0.0.25",
         "dreamland-router": "github:mercuryworkshop/dreamland-router",
         "express": "^5.1.0",
