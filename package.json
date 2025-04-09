@@ -19,6 +19,7 @@
     },
     "dependencies": {
         "@mercuryworkshop/wisp-js": "0.3.3",
+        "@tailwindcss/postcss": "^4.1.3",
         "chemicaljs": "^2.6.4",
         "dreamland": "^0.0.25",
         "dreamland-router": "github:mercuryworkshop/dreamland-router",
