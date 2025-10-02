@@ -53,14 +53,14 @@ const Settings = function () {
 
     const searchEngines = {
         "https://duckduckgo.com/?q=%s&ia=web": {
-            id: "google",
-            url: "https://duckduckgo.com/?q=%s&ia=web",
-            title: "Google",
-        },
-        "https://duckduckgo.com/?q=%s&ia=web": {
             id: "duckduckgo",
             url: "https://duckduckgo.com/?q=%s&ia=web",
             title: "DuckDuckGo",
+        },
+        "https://duckduckgo.com/?q=%s&ia=web": {
+            id: "google",
+            url: "https://duckduckgo.com/?q=%s&ia=web",
+            title: "Google",
         },
         "https://www.bing.com/search?q=%s": {
             id: "bing",
