@@ -52,9 +52,9 @@ const Settings = function () {
     };
 
     const searchEngines = {
-        "https://www.google.com/search?q=%s": {
+        "https://duckduckgo.com/?q=%s&ia=web": {
             id: "google",
-            url: "https://www.google.com/search?q=%s",
+            url: "https://duckduckgo.com/?q=%s&ia=web",
             title: "Google",
         },
         "https://duckduckgo.com/?q=%s&ia=web": {
